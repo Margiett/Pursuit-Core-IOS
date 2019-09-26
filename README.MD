@@ -4,5 +4,5 @@
 
 1. types, Variables and logic
 1. Control Flow
-1.loops
+1. loops
 
