@@ -131,13 +131,15 @@ let numEight = 5.0 + 2
 let d = numSeven == numEight
 
 let numFive = 24%5
-let numSix = 24.0%5.0
-let c =
+
+//let numSix = 24.0%5.0
+//let c =
+// code does not work
 
 let numThree = 24/5
 let numFour = 24.0/5.0
-let b = numThree == numFour
-
+//let b = numThree == numFour
+// code does not work
 
 
 var i = 0
@@ -148,6 +150,26 @@ i %= 3
 i -= 3
 
 print(i)
+
+
+
+
+
+//================================================================================
+//                     Module operator or Remainder operator
+//================================================================================
+
+
+let pi = 3.14
+
+
+
+
+
+
+
+
+
 
 
 
